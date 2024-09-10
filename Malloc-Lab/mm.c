@@ -34,7 +34,7 @@
  * 
  *        - Allocated blocks:
  *          - Contains a pointer to the payload
- *          - Is in a union with pointers to previoius and next because blocks can only be one of the two types
+ *          - Is in a union with pointers to previous and next because blocks can only be one of the two types
  *
  *      - Organization of the free list:
  *        ------------------------------
